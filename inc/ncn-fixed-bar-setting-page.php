@@ -2,7 +2,7 @@
 /**
  * Setting page.
  *
- * @package NCN_Contact_Form_Widget
+ * @package NCN_Fixed_Bar
  */
 
 /**
@@ -153,7 +153,7 @@ function field_showroom_callback() {
 function ncncf_options_page() {
 	?>
 	<div class="wrap">
-		<h2><?php echo esc_html_e( 'NCN: Contact Form Setting Page', 'namncn' ); ?></h2>
+		<h2><?php echo esc_html_e( 'NCN: Fixed Bar Setting Page', 'namncn' ); ?></h2>
 		<form action="options.php" method="POST">
 			<?php settings_fields( 'ncncf-settings-group' ); ?>
 			<?php do_settings_sections( 'ncncf-advisory' ); ?>
