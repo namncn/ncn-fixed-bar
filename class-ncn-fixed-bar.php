@@ -84,6 +84,6 @@ final class NCN_Fixed_Bar {
 	 * Enqueue all style and scripts.
 	 */
 	public function enqueue_scripts() {
-		wp_enqueue_style( 'ncncf-style', NCN_FIXED_BAR_URL . 'assets/css/style.css', array(), '1.0.1' );
+		wp_enqueue_style( 'ncncf-style', NCN_FIXED_BAR_URL . 'assets/css/style.min.css', array(), '1.0.1' );
 	}
 }
