@@ -1,0 +1,62 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-02 08:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: class-ncn-contact-form.php:59 inc/ncn-contact-form-setting-page.php:35
+msgctxt "Liên hệ với chúng tôi"
+msgid "Contact Us"
+msgstr ""
+
+#: class-ncn-contact-form.php:62 inc/ncn-contact-form-setting-page.php:48
+msgctxt "Điền thông tin dưới đây để liên hệ với chúng tôi"
+msgid "Use the form below to contact us!"
+msgstr ""
+
+#: inc/ncn-contact-form-setting-page.php:16
+msgctxt "Tiêu đề"
+msgid "Title"
+msgstr ""
+
+#: inc/ncn-contact-form-setting-page.php:20
+msgctxt "Mô tả ngắn"
+msgid "Excerpt"
+msgstr ""
+
+#: inc/ncn-contact-form-setting-page.php:24
+msgctxt "Shortcode CF7"
+msgid "Shortcode CF7"
+msgstr ""
+
+#. Name of the plugin
+msgctxt "NCN: Hộp liên hệ"
+msgid "NCN Contact Form"
+msgstr ""
+
+#. Description of the plugin
+msgctxt "Tạo hộp liên hệ ẩn hiện dưới chân trang."
+msgid "Create contact form in footer."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://namncn.com/plugins/ncn-contact-form/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nam NCN"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://namncn.com/"
+msgstr ""
